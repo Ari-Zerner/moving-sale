@@ -9,10 +9,6 @@ This is a simple website for displaying items for sale, with bilingual support (
 3. The file structure is as follows:
    ```json
    {
-     "siteTitle": {
-       "en": "Moving Sale",
-       "es": "Venta por Mudanza"
-     },
      "items": [
        {
          "name": {
@@ -24,7 +20,7 @@ This is a simple website for displaying items for sale, with bilingual support (
            "es": "Item description in Spanish"
          },
          "price": 100,
-         "images": ["image1.jpg", "image2.jpg"]
+         "imageDir": "item_directory_name"
        },
        // More items...
      ]
@@ -34,10 +30,12 @@ This is a simple website for displaying items for sale, with bilingual support (
    - Copy an existing item block (everything between the curly braces `{}`)
    - Paste it at the end of the `items` array, before the closing square bracket `]`
    - Make sure to add a comma after the previous item
-   - Update the item details (name, description, price, and images)
+   - Update the item details (name, description, price, and imageDir)
 5. To add images:
-   - Place the image files in the `content` directory
-   - Add the image filenames to the `images` array for the corresponding item
+   - Create a new directory in the `content` folder with a name that matches the `imageDir` value
+   - Place the image files in this new directory
+   - Rename the image files numerically (1.jpg, 2.png, 3.gif, etc.)
+   - The website will automatically display all images found in the directory
 6. Save the `items.json` file after making your changes
 
 Remember to use valid JSON syntax. If you're unsure, you can use an online JSON validator to check your file.
@@ -55,3 +53,8 @@ To view the website locally, you can use Python's built-in HTTP server:
 4. Open a web browser and go to `http://localhost:8000`
 
 Your website should now be visible and reflect any changes you've made to the content.
+
+## Deploying to Netlify
+
+This website is set up to be easily deployed on Netlify. When you push changes to the main branch of the connected GitHub repository, Netlify will automatically deploy the updates.
+
