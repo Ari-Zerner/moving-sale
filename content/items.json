@@ -30,11 +30,23 @@
         "es": "Manta Ponderada"
       },
       "description": {
-        "en": "175 cm x 113 cm \\n ~7.5 kg or 16 lbs \\n Heavy, comfortable, good for anxiety. Only a small discoloration, shown in image.",
-        "es": "175cm x 113 cm \\n ~7.5 kgs o 16 libras \\n Pesado, c\u00f3modo, bueno para la ansiedad. Excelenete estado, solo una peque\u00f1a decoloraci\u00f3n, que se muestra en la imagen."
+        "en": "175 cm x 113 cm \n ~7.5 kg or 16 lbs \n Heavy, comfortable, good for anxiety. Only a small discoloration, shown in image.",
+        "es": "175cm x 113 cm \n ~7.5 kgs o 16 libras \n Pesado, c\u00f3modo, bueno para la ansiedad. Excelenete estado, solo una peque\u00f1a decoloraci\u00f3n, que se muestra en la imagen."
       },
       "price": 450,
       "imageDir": "Weighted Blanket"
+    },
+    {
+      "name": {
+        "en": "Grab-Bag of Decorations",
+        "es": "Bolsa de sorpresas con adornos"
+      },
+      "description": {
+        "en": "Get a variety of decorative items in this unique grab bag. Includes: \\n 8 picture frames (17cm x 22cm)\\n2 large canvas artworks\\nOne smaller metal wall art with frame \\nA quirkly plant pot shaped like a head \\n2 plastic plants, perfect for adding greenery without the upkeep. One orchid one eucalyptus.\\nA decorative...triangular...vase?\\nAll items are in good condition",
+        "es": "ObtengaObtenga una variedad de art\u00edculos decorativos en esta bolsa sorpresa \u00fanica. Incluye: \\n 8 marcos de fotos (17cm x 22cm)\\n2 obras de arte grandes en lienzo\\nUna obra de arte de pared m\u00e1s peque\u00f1a en metal con marco \\nUna maceta peculiar con forma de cabeza \\n2 plantas de pl\u00e1stico, perfectas para agregar verdor sin mantenimiento. Una orqu\u00eddea y un eucalipto.\\nUn jarr\u00f3n decorativo... \u00bftriangular?\\nTodos los art\u00edculos est\u00e1n en buenas condiciones"
+      },
+      "price": 650,
+      "imageDir": "Decor Grab Bag"
     }
   ]
 }
