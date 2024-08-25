@@ -61,8 +61,8 @@ def main():
     
     name_en = input("Enter item name in English: ")
     name_es = input("Enter item name in Spanish: ")
-    desc_en = input("Enter description in English: ")
-    desc_es = input("Enter description in Spanish: ")
+    desc_en = input("Enter description in English: ").replace("\\n", "\n")
+    desc_es = input("Enter description in Spanish: ").replace("\\n", "\n")
     price = int(input("Enter price: "))
     image_dir = input("Enter image directory name: ")
     
