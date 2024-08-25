@@ -59,6 +59,18 @@
       },
       "price": 1300,
       "imageDir": "Small Desk"
+    },
+    {
+      "name": {
+        "en": "4x cushioned dining chairs",
+        "es": "4c Sillas tapizadas"
+      },
+      "description": {
+        "en": "[Link to IKEA](https://www.ikea.com/mx/es/p/ekedalen-silla-cafe-oscuro-orrsta-gris-claro-40341115/) 4 high quality dark brown wood chairs from IKEA. small scratch on one chair back, shown in image. Each is 2300 new. washable seat. listed price is for all 4. ",
+        "es": "4 sillas de madera marr\u00f3n oscuro de alta calidad de IKEA. Un peque\u00f1o rasgu\u00f1o en el respaldo de una silla se muestra en la imagen. Cada una nueva cuesta 2300. Asiento lavable. Precio es por todos cuatros."
+      },
+      "price": 6000,
+      "imageDir": "Chairs"
     }
   ]
 }
