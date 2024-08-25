@@ -4,6 +4,14 @@ This is a simple website for displaying items for sale, with bilingual support (
 
 ## How to Add Content
 
+You can add new items using the `add_item.py` script:
+
+1. Run the script: `python add_item.py`
+2. Follow the prompts to enter item details
+3. Ensure images are in the specified directory in `content/`
+
+For manual updates:
+
 1. Navigate to the `content` directory.
 2. Open the `items.json` file in a text editor.
 3. The file structure is as follows:
@@ -57,4 +65,3 @@ Your website should now be visible and reflect any changes you've made to the co
 ## Deploying to Netlify
 
 This website is set up to be easily deployed on Netlify. When you push changes to the main branch of the connected GitHub repository, Netlify will automatically deploy the updates.
-
