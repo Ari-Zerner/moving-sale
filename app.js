@@ -16,6 +16,8 @@ const staticTranslations = {
     }
 };
 
+marked.use({ breaks: true });
+
 async function loadContent() {
     const response = await fetch('content/items.json');
     siteContent = await response.json();
@@ -39,12 +41,18 @@ async function renderItems() {
             ? images.map(img => `<img src="${img}" alt="${item.name[currentLanguage]}">`).join('')
             : '<p>No images available</p>';
 
+        const descriptionHtml = marked.parse(item.description[currentLanguage]);
+
         itemElement.innerHTML = `
             <h2>${item.name[currentLanguage]}</h2>
-            <p>${item.description[currentLanguage]}</p>
+            <div class="item-description"></div>
             <p>${priceLabel}: $${item.price}</p>
             ${imagesHtml}
         `;
+        
+        const descriptionElement = itemElement.querySelector('.item-description');
+        descriptionElement.innerHTML = descriptionHtml;
+
         container.appendChild(itemElement);
     }
 }
