@@ -40,8 +40,8 @@ async function renderItems() {
         const itemElement = document.createElement('div');
         itemElement.className = 'item';
         
-        const imagesHtml = item.images && item.images.length > 0
-            ? item.images.map(img => `<img src="content/${item.imageDir}/${img}" alt="${item.name[currentLanguage]}">`).join('')
+        const imagesHtml = item.imageDir
+            ? `<img src="content/${item.imageDir}/${item.imageDir}.jpg" alt="${item.name[currentLanguage]}">`
             : `<p>${staticTranslations[currentLanguage].noImagesAvailable}</p>`;
 
         const descriptionHtml = marked.parse(item.description[currentLanguage]);
