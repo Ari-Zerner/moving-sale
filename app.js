@@ -6,13 +6,15 @@ const staticTranslations = {
         contactViaWhatsApp: 'Contact via WhatsApp',
         languageToggle: 'Español',
         price: 'Price',
-        siteName: 'Moving Sale'
+        siteName: 'Moving Sale',
+        priceNote: 'All prices are in Mexican pesos and negotiable.'
     },
     es: {
         contactViaWhatsApp: 'Contactar por WhatsApp',
         languageToggle: 'English',
         price: 'Precio',
-        siteName: 'Venta por Mudanza'
+        siteName: 'Venta por Mudanza',
+        priceNote: 'Todos los precios están en pesos mexicanos y son negociables.'
     }
 };
 
@@ -86,6 +88,7 @@ function toggleLanguage() {
 
 function updateSiteTitle() {
     document.getElementById('site-title').textContent = staticTranslations[currentLanguage].siteName;
+    document.getElementById('price-note').textContent = staticTranslations[currentLanguage].priceNote;
 }
 
 function updateWhatsAppButton() {
