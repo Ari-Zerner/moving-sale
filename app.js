@@ -113,6 +113,25 @@ function expandImage(src) {
             <img src="${src}" alt="Expanded image">
         </div>
     `;
+    
+    const img = modal.querySelector('img');
+    img.onload = function() {
+        const viewportWidth = window.innerWidth;
+        const viewportHeight = window.innerHeight;
+        const imageAspectRatio = this.naturalWidth / this.naturalHeight;
+        const viewportAspectRatio = viewportWidth / viewportHeight;
+
+        if (imageAspectRatio > viewportAspectRatio) {
+            // Image is wider than viewport
+            this.style.width = '90vw';
+            this.style.height = 'auto';
+        } else {
+            // Image is taller than viewport
+            this.style.height = '90vh';
+            this.style.width = 'auto';
+        }
+    };
+
     modal.addEventListener('click', () => modal.remove());
     document.body.appendChild(modal);
 }
