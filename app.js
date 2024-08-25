@@ -41,7 +41,7 @@ async function renderItems() {
         itemElement.className = 'item';
         
         const imagesHtml = item.imageDir
-            ? `<img src="content/${item.imageDir}/${item.imageDir}.jpg" alt="${item.name[currentLanguage]}">`
+            ? `<div class="item-images" data-image-dir="${item.imageDir}"></div>`
             : `<p>${staticTranslations[currentLanguage].noImagesAvailable}</p>`;
 
         const descriptionHtml = marked.parse(item.description[currentLanguage]);
@@ -57,6 +57,33 @@ async function renderItems() {
         descriptionElement.innerHTML = descriptionHtml;
 
         container.appendChild(itemElement);
+    }
+
+    // Load images after rendering items
+    loadImages();
+}
+
+async function loadImages() {
+    const imageDivs = document.querySelectorAll('.item-images');
+    for (const div of imageDivs) {
+        const imageDir = div.dataset.imageDir;
+        try {
+            const response = await fetch(`content/${imageDir}/`);
+            const text = await response.text();
+            const parser = new DOMParser();
+            const doc = parser.parseFromString(text, 'text/html');
+            const links = doc.querySelectorAll('a');
+            for (const link of links) {
+                if (link.href.match(/\.(jpe?g|png|gif)$/i)) {
+                    const img = document.createElement('img');
+                    img.src = `content/${imageDir}/${link.textContent}`;
+                    img.alt = imageDir;
+                    div.appendChild(img);
+                }
+            }
+        } catch (error) {
+            console.error('Error loading images:', error);
+        }
     }
 }
 
