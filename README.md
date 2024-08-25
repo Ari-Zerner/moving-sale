@@ -6,9 +6,11 @@ This is a simple website for displaying items for sale, with bilingual support (
 
 You can add new items using the `add_item.py` script:
 
-1. Run the script: `python add_item.py`
-2. Follow the prompts to enter item details
-3. Ensure images are in the specified directory in `content/`
+1. Create a folder in content with item images
+2. Run the script: `python add_item.py`
+3. Follow the prompts to enter item details
+4. Ensure images are in the specified directory in `content/`
+5. After running the script, manually push the changes: `git push`
 
 For manual updates:
 
@@ -64,4 +66,4 @@ Your website should now be visible and reflect any changes you've made to the co
 
 ## Deploying to Netlify
 
-This website is set up to be easily deployed on Netlify. When you push changes to the main branch of the connected GitHub repository, Netlify will automatically deploy the updates.
+This website is set up to be easily deployed on Netlify at [cynandarisell.netlify.app](https://cynandarisell.netlify.app/). When you push changes to the main branch of the connected GitHub repository, Netlify will automatically deploy the updates.
