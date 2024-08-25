@@ -68,16 +68,34 @@ async function loadImages() {
     for (const div of imageDivs) {
         const imageDir = div.dataset.imageDir;
         const imageExtensions = ['jpg', 'jpeg', 'png', 'gif'];
+        const scrollContainer = document.createElement('div');
+        scrollContainer.className = 'image-scroll-container';
+        div.appendChild(scrollContainer);
         for (let i = 1; i <= 10; i++) {
             for (const ext of imageExtensions) {
                 const img = document.createElement('img');
                 img.src = `content/${imageDir}/${i}.${ext}`;
                 img.alt = imageDir;
                 img.onerror = () => img.remove();
-                img.onload = () => div.appendChild(img);
+                img.onload = () => {
+                    scrollContainer.appendChild(img);
+                    img.addEventListener('click', () => expandImage(img.src));
+                };
             }
         }
     }
+}
+
+function expandImage(src) {
+    const modal = document.createElement('div');
+    modal.className = 'modal';
+    modal.innerHTML = `
+        <div class="modal-content">
+            <img src="${src}" alt="Expanded image">
+        </div>
+    `;
+    modal.addEventListener('click', () => modal.remove());
+    document.body.appendChild(modal);
 }
 
 function toggleLanguage() {
