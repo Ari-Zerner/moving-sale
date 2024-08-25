@@ -2,18 +2,6 @@
   "items": [
     {
       "name": {
-        "en": "Couch",
-        "es": "Sof\u00e1"
-      },
-      "description": {
-        "en": "Comfortable three-seater couch",
-        "es": "C\u00f3modo sof\u00e1 de tres plazas"
-      },
-      "price": 250,
-      "imageDir": "couch"
-    },
-    {
-      "name": {
         "en": "STRANDTORP Extendable Dining Table, Coffee",
         "es": "STRANDTORP Mesa extensible, Caf\u00e9"
       },
