@@ -1,0 +1,32 @@
+{
+  "siteTitle": {
+    "en": "Moving Sale",
+    "es": "Venta por Mudanza"
+  },
+  "items": [
+    {
+      "name": {
+        "en": "Couch",
+        "es": "Sofá"
+      },
+      "description": {
+        "en": "Comfortable three-seater couch",
+        "es": "Cómodo sofá de tres plazas"
+      },
+      "price": 250,
+      "images": ["couch.jpg"]
+    },
+    {
+      "name": {
+        "en": "Dining Table",
+        "es": "Mesa de Comedor"
+      },
+      "description": {
+        "en": "Wooden dining table with 6 chairs",
+        "es": "Mesa de comedor de madera con 6 sillas"
+      },
+      "price": 300,
+      "images": ["dining_table.jpg"]
+    }
+  ]
+}
