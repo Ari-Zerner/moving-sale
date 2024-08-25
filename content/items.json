@@ -10,7 +10,8 @@
         "es": "Cómodo sofá de tres plazas"
       },
       "price": 250,
-      "imageDir": "couch"
+      "imageDir": "couch",
+      "images": ["couch.jpg"]
     },
     {
       "name": {
@@ -22,7 +23,14 @@
         "es": "Vendo esta hermosa [mesa de IKEA](https://www.ikea.com/mx/es/p/strandtorp-mesa-extensible-cafe-80388587/) ligeramente usada. Las fotos son de una mesa con una hoja, pero se puede acortar o alargar quitando la hoja de la mesa o usando la segunda hoja. Pido 3/4 de nueva, usada hace menos de un año y sin desgaste visible."
       },
       "price": 10000,
-      "imageDir": "STRANDTORP"
+      "imageDir": "STRANDTORP",
+      "images": [
+        "454013644_517048651009383_3015676068442263210_n.jpg",
+        "454502890_1895292960883176_5121038129936628901_n.jpg",
+        "454505515_1642581636533524_1829938872523184217_n.jpg",
+        "454535360_828048429394770_3616029557616973170_n.jpg",
+        "454611920_380717764768661_5866665567253007702_n.jpg"
+      ]
     }
   ]
 }
