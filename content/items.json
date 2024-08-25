@@ -3,11 +3,11 @@
     {
       "name": {
         "en": "Couch",
-        "es": "Sofá"
+        "es": "Sof\u00e1"
       },
       "description": {
         "en": "Comfortable three-seater couch",
-        "es": "Cómodo sofá de tres plazas"
+        "es": "C\u00f3modo sof\u00e1 de tres plazas"
       },
       "price": 250,
       "imageDir": "couch"
@@ -15,14 +15,26 @@
     {
       "name": {
         "en": "STRANDTORP Extendable Dining Table, Coffee",
-        "es": "STRANDTORP Mesa extensible, Café"
+        "es": "STRANDTORP Mesa extensible, Caf\u00e9"
       },
       "description": {
         "en": "Selling this lightly used beautiful [table from IKEA](https://www.ikea.com/mx/es/p/strandtorp-mesa-extensible-cafe-80388587/). Pictures are of table with one leaf in, but it can be shortened or lengthened by putting away the leaf in the table or by using the second leaf. Asking 3/4 of new, used less than one year and no visible wear. ",
-        "es": "Vendo esta hermosa [mesa de IKEA](https://www.ikea.com/mx/es/p/strandtorp-mesa-extensible-cafe-80388587/) ligeramente usada. Las fotos son de una mesa con una hoja, pero se puede acortar o alargar quitando la hoja de la mesa o usando la segunda hoja. Pido 3/4 de nueva, usada hace menos de un año y sin desgaste visible."
+        "es": "Vendo esta hermosa [mesa de IKEA](https://www.ikea.com/mx/es/p/strandtorp-mesa-extensible-cafe-80388587/) ligeramente usada. Las fotos son de una mesa con una hoja, pero se puede acortar o alargar quitando la hoja de la mesa o usando la segunda hoja. Pido 3/4 de nueva, usada hace menos de un a\u00f1o y sin desgaste visible."
       },
       "price": 10000,
       "imageDir": "STRANDTORP"
+    },
+    {
+      "name": {
+        "en": "Weighted Blanket",
+        "es": "Manta Ponderada"
+      },
+      "description": {
+        "en": "175 cm x 113 cm \\n ~7.5 kg or 16 lbs \\n Heavy, comfortable, good for anxiety. Only a small discoloration, shown in image.",
+        "es": "175cm x 113 cm \\n ~7.5 kgs o 16 libras \\n Pesado, c\u00f3modo, bueno para la ansiedad. Excelenete estado, solo una peque\u00f1a decoloraci\u00f3n, que se muestra en la imagen."
+      },
+      "price": 450,
+      "imageDir": "Weighted Blanket"
     }
   ]
 }
