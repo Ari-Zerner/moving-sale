@@ -71,18 +71,37 @@ async function loadImages() {
         const scrollContainer = document.createElement('div');
         scrollContainer.className = 'image-scroll-container';
         div.appendChild(scrollContainer);
+
+        const imagePromises = [];
+
         for (let i = 1; i <= 10; i++) {
             for (const ext of imageExtensions) {
                 const img = document.createElement('img');
                 img.src = `content/${imageDir}/${i}.${ext}`;
                 img.alt = imageDir;
-                img.onerror = () => img.remove();
-                img.onload = () => {
-                    scrollContainer.appendChild(img);
-                    img.addEventListener('click', () => expandImage(img.src));
-                };
+                
+                const imagePromise = new Promise((resolve) => {
+                    img.onload = () => resolve(img);
+                    img.onerror = () => resolve(null);
+                });
+                
+                imagePromises.push(imagePromise);
             }
         }
+
+        const loadedImages = await Promise.all(imagePromises);
+        const validImages = loadedImages.filter(img => img !== null);
+        
+        validImages.sort((a, b) => {
+            const aNum = parseInt(a.src.match(/(\d+)\.[^.]+$/)[1]);
+            const bNum = parseInt(b.src.match(/(\d+)\.[^.]+$/)[1]);
+            return aNum - bNum;
+        });
+
+        validImages.forEach(img => {
+            scrollContainer.appendChild(img);
+            img.addEventListener('click', () => expandImage(img.src));
+        });
     }
 }
 
