@@ -35,6 +35,18 @@
       },
       "price": 650,
       "imageDir": "Decor Grab Bag"
+    },
+    {
+      "name": {
+        "en": "Randu Adjustable Height Desk",
+        "es": "Escritorio Ajustable El\u00e9ctrico Randu est\u00e1ndar Con Tablero"
+      },
+      "description": {
+        "en": "[Randu Brand Adjustable Height Desk](https://randu.mx/collections/escritorios/products/escritorio-de-altura-ajustable-electrico?variant=42680990630147) Description: Adjustable Height desk, ideal for working while standing or sitting. Purchased Aug 6 2023, only 1 year of use. The tabletop is in perfect status, no damage. There is a little bit of damage to the paint on the feet, shown in the images. This does not affect functionality. Up to 4 height settings / profiles. Dimensions: 150cm x 60cm. Height: minimum 71cm, maximum 120cm. Color: black basewood top. Material: Metal and wood",
+        "es": "Escritorio Randu de altura ajustable, ideal para trabajar de pie o sentado. Comprado el 6 de agosto de 2023, menos de un a\u00f1o de uso. La superficie de la mesa est\u00e1 en perfecto estado, sin da\u00f1os. Solo una peque\u00f1a cantidad de pintura descascarad en uno de los pies, pero sin afectar la funcionalidad. Sistema de ajuste de altura el\u00e9ctrico que funciona perfectamente. Especifaciones: \n Dimensiones: 150cm x 60cm \n Altura Ajustable: m\u00ednima: 71cm m\u00e1xima: 120cm \nColor: base negra, tablero amdera obscura\nMaterial: Metal y Madera"
+      },
+      "price": 6500,
+      "imageDir": "Randu Desk"
     }
   ]
 }
