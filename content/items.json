@@ -191,6 +191,18 @@
       },
       "price": 250,
       "imageDir": "Kettle"
+    },
+    {
+      "name": {
+        "en": "SodaStream Sparkling Water Maker",
+        "es": "SodaStream M\u00e1quina para hacer agua con gas"
+      },
+      "description": {
+        "en": "[Link to buy new](https://articulo.mercadolibre.com.mx/MLM-1714960741-maquina-para-sodas-sodastream-jet-con-cilindro-co2-incluido-_JM?matt_tool=25598545&matt_word=&matt_source=google&matt_campaign_id=19652628138&matt_ad_group_id=158266690798&matt_match_type=&matt_network=g&matt_device=c&matt_creative=686740866143&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=5355700410&matt_product_id=MLM1714960741&matt_product_partition_id=2267904216866&matt_target_id=aud-2039726218771:pla-2267904216866&gad_source=1&gclid=Cj0KCQjwz7C2BhDkARIsAA_SZKaSXKZagMxT-hJrHxa1pTkLErivhqs5TAkNozKgUBXJdxEHc23beZYaAkAFEALw_wcB)It makes sparkling water! It can help y out sugary sodas or make cool cocktails / mocktails. [Sodastream Mexico](https://sodastreammexico.com/collections/intercambio-de-tanques-sodastream-en-cdmx) also has a really cool tank exchange program for very cheap here in the city",
+        "es": "[Enlance para comprar nuevo](https://articulo.mercadolibre.com.mx/MLM-1714960741-maquina-para-sodas-sodastream-jet-con-cilindro-co2-incluido-_JM?matt_tool=25598545&matt_word=&matt_source=google&matt_campaign_id=19652628138&matt_ad_group_id=158266690798&matt_match_type=&matt_network=g&matt_device=c&matt_creative=686740866143&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=5355700410&matt_product_id=MLM1714960741&matt_product_partition_id=2267904216866&matt_target_id=aud-2039726218771:pla-2267904216866&gad_source=1&gclid=Cj0KCQjwz7C2BhDkARIsAA_SZKaSXKZagMxT-hJrHxa1pTkLErivhqs5TAkNozKgUBXJdxEHc23beZYaAkAFEALw_wcB)\u00a1Prepara agua con gas! Puede ayudarte a dejar de tomar refrescos azucarados o preparar c\u00f3cteles o c\u00f3cteles sin alcohol geniales. [Sodastream M\u00e9xico](https://sodastreammexico.com/collections/intercambio-de-tanques-sodastream-en-cdmx) tambi\u00e9n tiene un programa de intercambio de tanques realmente genial por muy poco dinero aqu\u00ed en la ciudad."
+      },
+      "price": 800,
+      "imageDir": "sodastream"
     }
   ]
 }
