@@ -167,6 +167,18 @@
       },
       "price": 400,
       "imageDir": "tapestries"
+    },
+    {
+      "name": {
+        "en": "Dry Herb Vaporizor",
+        "es": "Vaporizador de hierbas secas"
+      },
+      "description": {
+        "en": "[Link to purhcase new](https://www.storz-bickel.com/en-us/plenty) This dry herb vaporizor has powerg and efficient cooling. It works greatt! Price is half of new, feel free to come over and try it out first haha",
+        "es": "[Enlace para comprar el nuevo](https://www.storz-bickel.com/en-us/plenty) Este vaporizador de hierbas secas tiene un potente sistema de calentamiento y enfriamiento eficiente. \u00a1Funciona muy bien! El precio es la mitad del nuevo, no dudes en venir y probarlo primero jaja"
+      },
+      "price": 2200,
+      "imageDir": "Vaporizor"
     }
   ]
 }
