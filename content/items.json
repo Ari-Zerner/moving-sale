@@ -150,7 +150,7 @@
         "es": "TV de 32 pulgadas"
       },
       "description": {
-        "en": "TV has clear picture, is 32 inch diagnol, has 2 HDMI po! Personally used it as a computer monitor. ",
+        "en": "TV has clear picture, is 32 inch diagnol, has 2 HDMI ports! Personally used it as a computer monitor. ",
         "es": "El televisor tiene una imagen n\u00edtida, tiene una diagonal de 32 pulgadas y tiene 2 puertos HDMI. \u00a1Ideal para jugar! Lo us\u00e9 personalmente como monitor de computadora."
       },
       "price": 1500,
@@ -174,11 +174,23 @@
         "es": "Vaporizador de hierbas secas"
       },
       "description": {
-        "en": "[Link to purhcase new](https://www.storz-bickel.com/en-us/plenty) This dry herb vaporizor has powerg and efficient cooling. It works greatt! Price is half of new, feel free to come over and try it out first haha",
-        "es": "[Enlace para comprar el nuevo](https://www.storz-bickel.com/en-us/plenty) Este vaporizador de hierbas secas tiene un potente sistema de calentamiento y enfriamiento eficiente. \u00a1Funciona muy bien! El precio es la mitad del nuevo, no dudes en venir y probarlo primero jaja"
+        "en": "[Link to purhcase new](https://www.storz-bickel.com/en-us/plenty) This dry herb vaporizor has powerful heating and efficient cooling. It works greatt! Price is under half of new, feel free to come over and try it out first haha",
+        "es": "[Enlace para comprar el nuevo](https://www.storz-bickel.com/en-us/plenty) Este vaporizador de hierbas secas tiene un potente sistema de calentamiento y enfriamiento eficiente. \u00a1Funciona muy bien! El precio es menos de la mitad del nuevo, no dudes en venir y probarlo primero jaja"
       },
       "price": 2200,
       "imageDir": "Vaporizor"
+    },
+    {
+      "name": {
+        "en": "Electric Kettle",
+        "es": "Hervidor el\u00e9ctrico "
+      },
+      "description": {
+        "en": "1.7 liter electric kettle with automatic shut off. It has a borosilicate glass body and blue LEDs",
+        "es": "Hervidor el\u00e9ctrico de 1,7 litros con apagado autom\u00e1tico. Tiene un cuerpo de vidrio de borosilicato y luces LED azules."
+      },
+      "price": 250,
+      "imageDir": "Kettle"
     }
   ]
 }
