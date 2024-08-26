@@ -95,6 +95,18 @@
       },
       "price": 400,
       "imageDir": "Avocado Chair"
+    },
+    {
+      "name": {
+        "en": "Green Wire Chair",
+        "es": "Silla Acapulco Verde"
+      },
+      "description": {
+        "en": "Custom made, dark green, comfy gaming chair",
+        "es": "Silla de juego c\u00f3moda, hecha a medida, de color verde oscuro"
+      },
+      "price": 400,
+      "imageDir": "Square Chair"
     }
   ]
 }
