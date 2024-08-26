@@ -155,6 +155,18 @@
       },
       "price": 1500,
       "imageDir": "Small TV"
+    },
+    {
+      "name": {
+        "en": "3 decorative tapestries",
+        "es": "3 tapices decorativos"
+      },
+      "description": {
+        "en": "Rainbow: 77\" x 57\" \n Pink: 94\" x 62\" \nBlue 82\" x 52\" \n All clean, no rips or stains. All 100% cotton. The pink is a little sunbleached. 400 pesos each or 1000 for all three",
+        "es": "Arco\u00edris: 77\" x 57\"\n Rosa: 92\" x 62\"\nAzul: 82\" x 52\" \n Todo limpio, sin roturas ni manchas. Todo 100% algod\u00f3n. El rosa est\u00e1 un poco blanqueado por el sol. 400 pesos cada, o 1000 pesos por todos tres"
+      },
+      "price": 400,
+      "imageDir": "tapestries"
     }
   ]
 }
