@@ -131,6 +131,18 @@
       },
       "price": 1000,
       "imageDir": "Power Drill"
+    },
+    {
+      "name": {
+        "en": "2 1000-piece jigsaw puzzles",
+        "es": "2 rompecabezas de 1000 piezas"
+      },
+      "description": {
+        "en": "map of the ancient world, and bowl of guacamole",
+        "es": "mapa de mundo antiguo y taz\u00f3n de guacamole"
+      },
+      "price": 400,
+      "imageDir": "puzzles"
     }
   ]
 }
