@@ -119,6 +119,18 @@
       },
       "price": 1750,
       "imageDir": "deskchair"
+    },
+    {
+      "name": {
+        "en": "Ryobi 1/2' VSR Powered Hammer Drill w/ extra bits",
+        "es": "Taladro Percutor Ryobi 1/2\" VSR con Brocas Extra"
+      },
+      "description": {
+        "en": "Mo\nChuck Size: 1/2\" keyed chuck \nVariable Speed Dial: Yes\nHammer Function: Yes\nCondition: Like new, barely used\nIncludes: original box, instructions, and a set of extra drill bits",
+        "es": "Modelo: Ryobi D620H\nPotencia: 5 amperios\nTama\u00f1o del Mandril: 1/2\" con llave\nVelocidad Variable: S\u00ed\nDunci\u00f3n de Martillo: S\u00ed\nCondici\u00f3n: Como nuevo, apenas usado\nIncluye: Caja original, instrucciones, y un juego de brocas adicionales"
+      },
+      "price": 1000,
+      "imageDir": "Power Drill"
     }
   ]
 }
