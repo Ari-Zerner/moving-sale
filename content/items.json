@@ -143,6 +143,18 @@
       },
       "price": 400,
       "imageDir": "puzzles"
+    },
+    {
+      "name": {
+        "en": "32 inch TV",
+        "es": "TV de 32 pulgadas"
+      },
+      "description": {
+        "en": "TV has clear picture, is 32 inch diagnol, has 2 HDMI po! Personally used it as a computer monitor. ",
+        "es": "El televisor tiene una imagen n\u00edtida, tiene una diagonal de 32 pulgadas y tiene 2 puertos HDMI. \u00a1Ideal para jugar! Lo us\u00e9 personalmente como monitor de computadora."
+      },
+      "price": 1500,
+      "imageDir": "Small TV"
     }
   ]
 }
