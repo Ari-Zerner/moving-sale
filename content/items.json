@@ -215,6 +215,30 @@
       },
       "price": 4500,
       "imageDir": ""
+    },
+    {
+      "name": {
+        "en": "Screen LG OLED Evo TV 55\" 4K smart WebOS smart TV ThinQ",
+        "es": "Pantalla LG OLED Evo TV 55\" 4k smart WebOS smart TV ThinQ"
+      },
+      "description": {
+        "en": "[Link to buy new](https://www.amazon.com.mx/dp/B0BFBX4B2J?ref=cm_sw_r_apan_dp_58QTJPB09RE6PA9E736W&ref_=cm_sw_r_apan_dp_58QTJPB09RE6PA9E736W&social_share=cm_sw_r_apan_dp_58QTJPB09RE6PA9E736W&starsLeft=1&skipTwisterOG=1&th=1) This 4k Smart TV has treated us well. 2 USB ports, 4 HDMI ports, built in netflix, hulu, etc. No cracks or damage. High image quality. ",
+        "es": "[Link para comprar nuevo](https://www.amazon.com.mx/dp/B0BFBX4B2J?ref=cm_sw_r_apan_dp_58QTJPB09RE6PA9E736W&ref_=cm_sw_r_apan_dp_58QTJPB09RE6PA9E736W&social_share=cm_sw_r_apan_dp_58 QTJPB09RE6PA9E736W&starsLeft=1&skipTwisterOG=1&th=1) Este Smart TV 4k nos ha tratado bien. 2 puertos USB, 4 puertos HDMI, Netflix, Hulu, etc. integrados. Sin grietas ni da\u00f1os. Alta calidad de imagen."
+      },
+      "price": 15000,
+      "imageDir": "Big TV"
+    },
+    {
+      "name": {
+        "en": "Screen LG OLED Evo TV 55\\\" 4k Smart WebOS TV ThinQ",
+        "es": "Pantalla LG OLED Evo TV 55\\\" 4k smart WebOS TV ThinQ"
+      },
+      "description": {
+        "en": "[Link to buy new](https://www.amazon.com.mx/dp/B0BFBX4B2J?ref=cm_sw_r_apan_dp_58QTJPB09RE6PA9E736W&ref_=cm_sw_r_apan_dp_58QTJPB09RE6PA9E736W&social_share=cm_sw_r_apan_dp_58QTJPB09RE6PA9E736W&starsLeft=1&skipTwisterOG=1&th=1) This 4k Smart TV has treated us well. 2 USB ports, 4 HDMI ports, built in netflix, hulu, etc. No cracks or damage. High image quality.",
+        "es": "[Link para comprar nuevo](https://www.amazon.com.mx/dp/B0BFBX4B2J?ref=cm_sw_r_apan_dp_58QTJPB09RE6PA9E736W&ref_=cm_sw_r_apan_dp_58QTJPB09RE6PA9E736W&social_share=cm_sw_r_apan_dp_58 QTJPB09RE6PA9E736W&starsLeft=1&skipTwisterOG=1&th=1) Este Smart TV 4k nos ha tratado bien. 2 puertos USB, 4 puertos HDMI, Netflix, Hulu, etc. integrados. Sin grietas ni da\u00f1os. Alta calidad de imagen."
+      },
+      "price": 15000,
+      "imageDir": "Big TV"
     }
   ]
 }
