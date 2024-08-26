@@ -83,6 +83,18 @@
       },
       "price": 250,
       "imageDir": "Yoga Mats"
+    },
+    {
+      "name": {
+        "en": "Rainbow Avocado Chair",
+        "es": "Silla de aguacate arcoiris"
+      },
+      "description": {
+        "en": "Colorful, relaxing, Mexican, what's not to love?",
+        "es": "Colorido, relajante, mexicano, \u00bfa qui\u00e9n no le gustar\u00eda?"
+      },
+      "price": 400,
+      "imageDir": "Avocado Chair"
     }
   ]
 }
