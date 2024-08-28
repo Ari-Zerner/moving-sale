@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Moving Sale Flyer | Folleto de Venta por Mudanza</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: linear-gradient(135deg, #8a2387, #e94057, #f27121);
+            color: white;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            margin: 0;
+            padding: 20px;
+            box-sizing: border-box;
+        }
+        .flyer {
+            background-color: rgba(255, 255, 255, 0.1);
+            border-radius: 15px;
+            padding: 20px;
+            max-width: 800px;
+            width: 100%;
+            text-align: center;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        .columns {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 20px;
+        }
+        .column {
+            width: 48%;
+        }
+        h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+        h2 {
+            font-size: 1.8em;
+            margin-bottom: 10px;
+        }
+        p {
+            font-size: 1.2em;
+            margin-bottom: 15px;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+            text-align: left;
+        }
+        li {
+            margin-bottom: 5px;
+        }
+        .qr-code {
+            background-color: white;
+            padding: 10px;
+            border-radius: 10px;
+            display: inline-block;
+            margin-bottom: 15px;
+        }
+        a {
+            color: #ffd700;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        @media (max-width: 600px) {
+            .columns {
+                flex-direction: column;
+            }
+            .column {
+                width: 100%;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="flyer">
+        <h1>Moving Sale! | ¡Venta por Mudanza!</h1>
+        <p>Everything must go! 50% off retail prices<br>
+           ¡Todo debe irse! 50% de descuento sobre precios de venta</p>
+        <div class="columns">
+            <div class="column">
+                <h2>Items include:</h2>
+                <ul>
+                    <li>Extendable dining table</li>
+                    <li>55 inch TV</li>
+                    <li>Desks and chairs</li>
+                    <li>And more!</li>
+                </ul>
+            </div>
+            <div class="column">
+                <h2>Los artículos incluyen:</h2>
+                <ul>
+                    <li>Mesa de comedor extensible</li>
+                    <li>TV de 55 pulgadas</li>
+                    <li>Escritorios y sillas</li>
+                    <li>¡Y más!</li>
+                </ul>
+            </div>
+        </div>
+        <div class="qr-code" id="qrcode"></div>
+        <p>Scan QR code or visit: | Escanea el código QR o visita:</p>
+        <a href="https://cynandarisell.netlify.app/">cynandarisell.netlify.app</a>
+        <p>Contact for more details: | Contacta para más detalles:<br>
+           +1-267-983-7027</p>
+    </div>
+
+    <script>
+        new QRCode(document.getElementById("qrcode"), "https://cynandarisell.netlify.app/");
+    </script>
+</body>
+</html>
