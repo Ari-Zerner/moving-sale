@@ -228,17 +228,29 @@
       "price": 15000,
       "imageDir": "Big TV"
     },
-     {
+    {
       "name": {
         "en": "Hisense 450 SF Portable Air Conditioner WIFI",
-        "es": "Aire acondicionado portátil Hisense 450 SF WIFI"
+        "es": "Aire acondicionado port\u00e1til Hisense 450 SF WIFI"
       },
       "description": {
-        "en": "[Link to buy new](https://www.hisense-usa.com/air-products/ap1022cw1g-hisense-450-sf-portable-ac-wifi) The Hisense AP1022CW1G Portable Air Conditioner is best suited for large rooms (450 sq.ft. or less), delivering 10,000 BTU of cooling power. It provides three modes of comfort — cooling, fan, dehumidifier — allowing you to choose the comfort you want at any time. The convenient drain-free design means you never need to worry about removing condensed moisture, and its effective design provides quiet operation for your peace of mind. The ConnectLife smart app and included remote control put easy operation right at your fingertips. Works just like new :)",
-        "es": "[Link para comprar nuevo](https://www.hisense-usa.com/air-products/ap1022cw1g-hisense-450-sf-portable-ac-wifi) El aire acondicionado portátil Hisense AP1022CW1G es ideal para habitaciones grandes (450 pies cuadrados o menos) y ofrece 10 000 BTU de potencia de enfriamiento. Ofrece tres modos de confort (enfriamiento, ventilador y deshumidificador), lo que le permite elegir el confort que desee en cualquier momento. El práctico diseño sin drenaje significa que nunca tendrá que preocuparse por eliminar la humedad condensada, y su diseño eficaz proporciona un funcionamiento silencioso para su tranquilidad. La aplicación inteligente ConnectLife y el control remoto incluido ponen el funcionamiento sencillo al alcance de su mano. Funciona como nuevo :)"
+        "en": "[Link to buy new](https://www.hisense-usa.com/air-products/ap1022cw1g-hisense-450-sf-portable-ac-wifi) The Hisense AP1022CW1G Portable Air Conditioner is best suited for large rooms (450 sq.ft. or less), delivering 10,000 BTU of cooling power. It provides three modes of comfort \u2014 cooling, fan, dehumidifier \u2014 allowing you to choose the comfort you want at any time. The convenient drain-free design means you never need to worry about removing condensed moisture, and its effective design provides quiet operation for your peace of mind. The ConnectLife smart app and included remote control put easy operation right at your fingertips. Works just like new :)",
+        "es": "[Link para comprar nuevo](https://www.hisense-usa.com/air-products/ap1022cw1g-hisense-450-sf-portable-ac-wifi) El aire acondicionado port\u00e1til Hisense AP1022CW1G es ideal para habitaciones grandes (450 pies cuadrados o menos) y ofrece 10 000 BTU de potencia de enfriamiento. Ofrece tres modos de confort (enfriamiento, ventilador y deshumidificador), lo que le permite elegir el confort que desee en cualquier momento. El pr\u00e1ctico dise\u00f1o sin drenaje significa que nunca tendr\u00e1 que preocuparse por eliminar la humedad condensada, y su dise\u00f1o eficaz proporciona un funcionamiento silencioso para su tranquilidad. La aplicaci\u00f3n inteligente ConnectLife y el control remoto incluido ponen el funcionamiento sencillo al alcance de su mano. Funciona como nuevo :)"
       },
       "price": 6000,
       "imageDir": "Air Conditioner"
+    },
+    {
+      "name": {
+        "en": "Bathroom / Laundry room Bundle",
+        "es": "Paquete de ba\u00f1o/lavadero"
+      },
+      "description": {
+        "en": "Includes: 1 fried egg bathmat\n1 plush black bathmat \n2x foot-pedal trashcan \n2x laundry hamper \nplastic shower shelves",
+        "es": "Incluye: 1 alfombra de ba\u00f1o con forma de huevo frito\n1 alfombra de ba\u00f1o de felpa negra\n2 botes de basura con pedal\n2 cestos de ropa sucia\nEstantes de pl\u00e1stico para ducha"
+      },
+      "price": 500,
+      "imageDir": "Bathroom"
     }
   ]
 }
