@@ -251,6 +251,18 @@
       },
       "price": 500,
       "imageDir": "Bathroom"
+    },
+    {
+      "name": {
+        "en": "Comfy IKEA U-Shaped Sofa - Mint Green Dream!",
+        "es": "Sof\u00e1 IKEA en U - \u00a1Sue\u00f1o Verde Menta!"
+      },
+      "description": {
+        "en": "Elevate your living room with this spacious IKEA MORABO U-shaped sofa in refreshing mint green. 2 years young, this 4-seater with chaise longue offers both style and comfort. Minor cosmetic wear, perfect for real living. Building offers ground-floor delivery. Snag this cozy corner at a fraction of the original 33,000 peso price!",
+        "es": "Eleva tu sala con este espacioso sof\u00e1 IKEA MORABO en U, en refrescante verde menta. Con solo 2 a\u00f1os, este sof\u00e1 de 4 plazas con chaise longue ofrece estilo y comodidad. Desgaste cosm\u00e9tico menor, perfecto para la vida real. El edificio ofrece entrega en planta baja. \u00a1Consigue este rinc\u00f3n acogedor a una fracci\u00f3n del precio original de 33,000 pesos!"
+      },
+      "price": 15000,
+      "imageDir": "Couch"
     }
   ]
 }
