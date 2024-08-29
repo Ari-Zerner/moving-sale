@@ -275,6 +275,18 @@
       },
       "price": 1200,
       "imageDir": "Air Fryer"
+    },
+    {
+      "name": {
+        "en": "Secura Bread Maker Machine 2.2 Lb",
+        "es": "Secura Horno de Pan 2.2 Lb"
+      },
+      "description": {
+        "en": "[Link to purchase new](https://articulo.mercadolibre.com.mx/MLM-1894952568-secura-bread-maker-machine-22-lb-fabricantes-de-tostadores-_JM) This bread machine has 19 menus to make a variety of breads, cakes, pizza dough, and more! Multiple size options and multiple crust color options. We've been using it for white bread about once a week and it's always delicious. 650Watts, about 2 years old. One third price of new!!",
+        "es": "[Enlace para comprar nuevo](https://articulo.mercadolibre.com.mx/MLM-1894952568-secura-bread-maker-machine-22-lb-fabricantes-de-tostadores-_JM) \u00a1Esta m\u00e1quina de pan tiene 19 men\u00fas para hacer una variedad de panes, pasteles, masa de pizza y m\u00e1s! M\u00faltiples opciones de tama\u00f1o y m\u00faltiples opciones de color de corteza. La hemos estado usando para pan blanco aproximadamente una vez a la semana y siempre es delicioso. 650Watts, aproximadamente 2 a\u00f1os. \u00a1\u00a1\u00a1Un tercio del precio de una nueva!!!"
+      },
+      "price": 2000,
+      "imageDir": "Bread Machine"
     }
   ]
 }
