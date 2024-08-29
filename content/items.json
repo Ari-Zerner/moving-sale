@@ -263,6 +263,18 @@
       },
       "price": 15000,
       "imageDir": "Couch"
+    },
+    {
+      "name": {
+        "en": "Chefman AirFryer with Digital Panel",
+        "es": "Chefman Freidora de Aire con Panel Digital"
+      },
+      "description": {
+        "en": "[Link to purchase new](https://a.co/d/funGT82) This air fryer holds 3.5 L, has a temperature range of 200-400 F, is easy to clean, and makes food delicious! Purchased christmas 2023, selling for half price of new :) ",
+        "es": "[Enlace para comprar una nueva](https://a.co/d/funGT82) Esta freidora de aire tiene una capacidad de 3,5 L, un rango de temperatura de 200 a 400 F, es f\u00e1cil de limpiar y prepara una comida deliciosa. La compr\u00e9 en Navidad de 2023 y la vendo a mitad de precio de una nueva :)"
+      },
+      "price": 1200,
+      "imageDir": "Air Fryer"
     }
   ]
 }
