@@ -50,18 +50,6 @@
     },
     {
       "name": {
-        "en": "IKEA MICKE desk",
-        "es": "IKEA MICKE estritorio"
-      },
-      "description": {
-        "en": "[link to IKEA](https://www.ikea.com/mx/es/p/micke-escritorio-negro-cafe-20244747/) We bought this desk from IKEA a year ago and barely used it. It has one drawer, a height of 7 cm x 73 cm. A look of simple lines that looks well anywhere. It can be combined with other MICKE series drawers or drawer modules to have more workspace. The practical design of the back allows you to hide the cables.",
-        "es": "[enlace a IKEA](https://www.ikea.com/mx/es/p/micke-escritorio-negro-cafe-20244747/) Compramos este escritorio de IKEA hace un a\u00f1o y apenas lo hemos usado. Tiene un caj\u00f3n, una altura de 75 cm y una superficie de 50 cm x 73 cm. Un dise\u00f1o de l\u00edneas simples que luce bien en cualquier lugar. Se puede combinar con otros cajones o m\u00f3dulos de cajones de la serie MICKE para tener m\u00e1s espacio de trabajo. El dise\u00f1o pr\u00e1ctico de la parte trasera te permite ocultar los cables."
-      },
-      "price": 1300,
-      "imageDir": "Small Desk"
-    },
-    {
-      "name": {
         "en": "4x cushioned dining chairs",
         "es": "4c Sillas tapizadas"
       },
@@ -182,18 +170,6 @@
     },
     {
       "name": {
-        "en": "Electric Kettle",
-        "es": "Hervidor el\u00e9ctrico "
-      },
-      "description": {
-        "en": "1.7 liter electric kettle with automatic shut off. It has a borosilicate glass body and blue LEDs",
-        "es": "Hervidor el\u00e9ctrico de 1,7 litros con apagado autom\u00e1tico. Tiene un cuerpo de vidrio de borosilicato y luces LED azules."
-      },
-      "price": 250,
-      "imageDir": "Kettle"
-    },
-    {
-      "name": {
         "en": "SodaStream Sparkling Water Maker",
         "es": "SodaStream M\u00e1quina para hacer agua con gas"
       },
@@ -246,8 +222,8 @@
         "es": "Paquete de ba\u00f1o/lavadero"
       },
       "description": {
-        "en": "Includes: 1 fried egg bathmat\n1 plush black bathmat \n2x foot-pedal trashcan \n2x laundry hamper \nplastic shower shelves",
-        "es": "Incluye: 1 alfombra de ba\u00f1o con forma de huevo frito\n1 alfombra de ba\u00f1o de felpa negra\n2 botes de basura con pedal\n2 cestos de ropa sucia\nEstantes de pl\u00e1stico para ducha"
+        "en": "Includes: 1 fried egg bathmat\n1 plush black bathmat \n2x foot-pedal trashcan \n2x laundry hamper \nplastic shower shelves \nSmart Bluetooth Scale with charging cord",
+        "es": "Incluye: 1 alfombra de ba\u00f1o con forma de huevo frito\n1 alfombra de ba\u00f1o de felpa negra\n2 botes de basura con pedal\n2 cestos de ropa sucia\nEstantes de pl\u00e1stico para ducha \n B\u00e1scula inteligente Bluetooth con cable de carga"
       },
       "price": 500,
       "imageDir": "Bathroom"
@@ -299,6 +275,18 @@
       },
       "price": 1150,
       "imageDir": "Microwave"
+    },
+    {
+      "name": {
+        "en": "Complete Baker's Dream Bundle - Everything You Need to Start Baking!",
+        "es": "Kit Completo de Reposter\u00eda - \u00a1Todo lo que Necesitas para Empezar a Hornear!"
+      },
+      "description": {
+        "en": "Calling all baking enthusiasts and kitchen newbies! Get your hands on this comprehensive baking bundle, perfect for creating everything from bread to cupcakes to pies. This set includes:\n\n\u2022 2 loaf pans\n\u2022 1 mini cupcake tin (12 cups)\n\u2022 2 regular cupcake tins (12 cups each)\n\u2022 48 reusable silicone cupcake liners\n\u2022 1 bundt pan\n\u2022 2 pie trays\n\u2022 2 small cookie sheets\n\u2022 2 wire cooling racks\n\u2022 1 handheld electric mixer in perfect condition\n\nRetail value: $235 (4,000 pesos)\nYour price: Only $120 (2,040 pesos)! Save 50%!\n\nDon't miss this chance to equip your kitchen with high-quality baking essentials at an unbeatable price. Perfect for beginners or as a gift for the baker in your life!",
+        "es": "\u00a1Llamando a todos los entusiastas de la reposter\u00eda y principiantes en la cocina! Hazte con este completo kit de reposter\u00eda, perfecto para crear de todo, desde pan hasta cupcakes y tartas. Este set incluye:\n\n\u2022 2 moldes para pan\n\u2022 1 bandeja para mini cupcakes (12 cavidades)\n\u2022 2 bandejas para cupcakes regulares (12 cavidades cada una)\n\u2022 48 moldes de silicona reutilizables para cupcakes\n\u2022 1 molde para bundt cake\n\u2022 2 moldes para tartas\n\u2022 2 bandejas peque\u00f1as para galletas\n\u2022 2 rejillas de enfriamiento\n\u2022 1 batidora el\u00e9ctrica de mano en perfectas condiciones\n\nValor en tienda: $235 (4,000 pesos)\nTu precio: \u00a1Solo $120 (2,040 pesos)! \u00a1Ahorra un 50%!\n\nNo pierdas esta oportunidad de equipar tu cocina con utensilios de reposter\u00eda de alta calidad a un precio inmejorable. \u00a1Perfecto para principiantes o como regalo para el repostero de tu vida!"
+      },
+      "price": 2040,
+      "imageDir": "Baking"
     }
   ]
 }
