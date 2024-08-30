@@ -74,7 +74,7 @@ async function loadImages() {
 
         const imagePromises = [];
 
-        for (let i = 1; i <= 10; i++) {
+        for (let i = 1; i <= 100; i++) {
             for (const ext of imageExtensions) {
                 const img = document.createElement('img');
                 img.src = `content/${imageDir}/${i}.${ext}`;
