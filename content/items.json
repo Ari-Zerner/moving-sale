@@ -287,6 +287,18 @@
       },
       "price": 2000,
       "imageDir": "Baking"
+    },
+    {
+      "name": {
+        "en": "Black and Decker Blender",
+        "es": "Black and Decker Licuadora"
+      },
+      "description": {
+        "en": "Crushmaster Pro model, black color, high quality blender",
+        "es": "Licuadora de alta calidad modelo Crushmaster Pro, color negro"
+      },
+      "price": 400,
+      "imageDir": "Blender"
     }
   ]
 }
