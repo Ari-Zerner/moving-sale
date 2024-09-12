@@ -204,7 +204,6 @@
       "price": 1200,
       "imageDir": "Air Fryer"
     },
-
     {
       "name": {
         "en": "Complete Baker's Dream Bundle - Everything You Need to Start Baking!",
@@ -252,6 +251,18 @@
       },
       "price": 5400,
       "imageDir": "Xbox"
+    },
+    {
+      "name": {
+        "en": "Fender FA-15N 3/4 acoustic guitar",
+        "es": "Guitarra ac\u00fastica Fender FA-15N 3/4"
+      },
+      "description": {
+        "en": "Fender FA-15N 3/4 acoustic guitar in excellent condition. Includes a shoulder strap, carrying case, tuner, capo, extra strings, and a floor stand. Perfect for beginners or those who prefer a smaller size guitar. No wear, very pretty!",
+        "es": "Guitarra ac\u00fastica Fender FA-15N 3/4 en excelente estado. Incluye una correa de hombro, estuche, afinador, cejilla, cuerdas extras y soporte de piso. Ideal para principiantes o quienes prefieren una guitarra de tama\u00f1o m\u00e1s peque\u00f1o. Sin desgaste, \u00a1muy bonita! "
+      },
+      "price": 2000,
+      "imageDir": "Guitar"
     }
   ]
 }
