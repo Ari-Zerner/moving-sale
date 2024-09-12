@@ -14,18 +14,6 @@
     },
     {
       "name": {
-        "en": "Weighted Blanket",
-        "es": "Manta Ponderada"
-      },
-      "description": {
-        "en": "175 cm x 113 cm \n ~7.5 kg or 16 lbs \n Heavy, comfortable, good for anxiety. Only a small discoloration, shown in image.",
-        "es": "175cm x 113 cm \n ~7.5 kgs o 16 libras \n Pesado, c\u00f3modo, bueno para la ansiedad. Excelenete estado, solo una peque\u00f1a decoloraci\u00f3n, que se muestra en la imagen."
-      },
-      "price": 450,
-      "imageDir": "Weighted Blanket"
-    },
-    {
-      "name": {
         "en": "Grab-Bag of Decorations",
         "es": "Bolsa de sorpresas con adornos"
       },
@@ -71,18 +59,6 @@
       },
       "price": 250,
       "imageDir": "Yoga Mats"
-    },
-    {
-      "name": {
-        "en": "Rainbow Avocado Chair",
-        "es": "Silla de aguacate arcoiris"
-      },
-      "description": {
-        "en": "Colorful, relaxing, Mexican, what's not to love?",
-        "es": "Colorido, relajante, mexicano, \u00bfa qui\u00e9n no le gustar\u00eda?"
-      },
-      "price": 400,
-      "imageDir": "Avocado Chair"
     },
     {
       "name": {
@@ -134,18 +110,6 @@
     },
     {
       "name": {
-        "en": "32 inch TV",
-        "es": "TV de 32 pulgadas"
-      },
-      "description": {
-        "en": "TV has clear picture, is 32 inch diagnol, has 2 HDMI ports! Personally used it as a computer monitor. ",
-        "es": "El televisor tiene una imagen n\u00edtida, tiene una diagonal de 32 pulgadas y tiene 2 puertos HDMI. \u00a1Ideal para jugar! Lo us\u00e9 personalmente como monitor de computadora."
-      },
-      "price": 1500,
-      "imageDir": "Small TV"
-    },
-    {
-      "name": {
         "en": "3 decorative tapestries",
         "es": "3 tapices decorativos"
       },
@@ -191,18 +155,6 @@
       },
       "price": 2350,
       "imageDir": "Beds"
-    },
-    {
-      "name": {
-        "en": "Screen LG OLED Evo TV 55\" 4K smart WebOS smart TV ThinQ",
-        "es": "Pantalla LG OLED Evo TV 55\" 4k smart WebOS smart TV ThinQ"
-      },
-      "description": {
-        "en": "[Link to buy new](https://www.amazon.com.mx/dp/B0BFBX4B2J?ref=cm_sw_r_apan_dp_58QTJPB09RE6PA9E736W&ref_=cm_sw_r_apan_dp_58QTJPB09RE6PA9E736W&social_share=cm_sw_r_apan_dp_58QTJPB09RE6PA9E736W&starsLeft=1&skipTwisterOG=1&th=1) This 4k Smart TV has treated us well. 2 USB ports, 4 HDMI ports, built in netflix, hulu, etc. No cracks or damage. High image quality. ",
-        "es": "[Link para comprar nuevo](https://www.a.co/d/7tTH9Rg) Este Smart TV 4k nos ha tratado bien. 2 puertos USB, 4 puertos HDMI, Netflix, Hulu, etc. integrados. Sin grietas ni da\u00f1os. Alta calidad de imagen."
-      },
-      "price": 15000,
-      "imageDir": "Big TV"
     },
     {
       "name": {
@@ -252,30 +204,7 @@
       "price": 1200,
       "imageDir": "Air Fryer"
     },
-    {
-      "name": {
-        "en": "Secura Bread Maker Machine 2.2 Lb",
-        "es": "Secura Horno de Pan 2.2 Lb"
-      },
-      "description": {
-        "en": "[Link to purchase new](https://articulo.mercadolibre.com.mx/MLM-1894952568-secura-bread-maker-machine-22-lb-fabricantes-de-tostadores-_JM) This bread machine has 19 menus to make a variety of breads, cakes, pizza dough, and more! Multiple size options and multiple crust color options. We've been using it for white bread about once a week and it's always delicious. 650Watts, about 2 years old. One third price of new!!",
-        "es": "[Enlace para comprar nuevo](https://articulo.mercadolibre.com.mx/MLM-1894952568-secura-bread-maker-machine-22-lb-fabricantes-de-tostadores-_JM) \u00a1Esta m\u00e1quina de pan tiene 19 men\u00fas para hacer una variedad de panes, pasteles, masa de pizza y m\u00e1s! M\u00faltiples opciones de tama\u00f1o y m\u00faltiples opciones de color de corteza. La hemos estado usando para pan blanco aproximadamente una vez a la semana y siempre es delicioso. 650Watts, aproximadamente 2 a\u00f1os. \u00a1\u00a1\u00a1Un tercio del precio de una nueva!!!"
-      },
-      "price": 2000,
-      "imageDir": "Bread Machine"
-    },
-    {
-      "name": {
-        "en": "Gormet 1.4 cubic feet mircowave by Whirlpool",
-        "es": "Microondas Gourmet de 1,4 pies c\u00fabicos de Whirlpool"
-      },
-      "description": {
-        "en": "[Link to purchase new](https://www.whirlpool.gt/microondas-1-4-p-silver/p?srsltid=AfmBOorNy4nMPZG7a7Oj9REWJbvrd6xS8ws8tc5Ip8oXGICKecg7UG1W) This microwave is pristine, powerful, and LARGE. Half off and never used!",
-        "es": "[Enlace para comprar nuevo](https://www.whirlpool.gt/microondas-1-4-p-silver/p?srsltid=AfmBOorNy4nMPZG7a7Oj9REWJbvrd6xS8ws8tc5Ip8oXGICKecg7UG1W) Este microondas est\u00e1 impecable, es potente y GRANDE. \u00a1A mitad de precio y nunca usado!"
-      },
-      "price": 1150,
-      "imageDir": "Microwave"
-    },
+
     {
       "name": {
         "en": "Complete Baker's Dream Bundle - Everything You Need to Start Baking!",
