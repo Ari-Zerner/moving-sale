@@ -240,6 +240,18 @@
       },
       "price": 750,
       "imageDir": "Coffee Table"
+    },
+    {
+      "name": {
+        "en": "Xbox Series S",
+        "es": "Xbox Series S"
+      },
+      "description": {
+        "en": "White Xbox Series S in good condition.",
+        "es": "Xbox Series S blanca en buena condici\u00f3n."
+      },
+      "price": 5400,
+      "imageDir": "Xbox"
     }
   ]
 }
