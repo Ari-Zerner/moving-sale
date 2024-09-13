@@ -26,18 +26,6 @@
     },
     {
       "name": {
-        "en": "Randu Adjustable Height Desk",
-        "es": "Escritorio Ajustable El\u00e9ctrico Randu est\u00e1ndar Con Tablero"
-      },
-      "description": {
-        "en": "[Randu Brand Adjustable Height Desk](https://randu.mx/collections/escritorios/products/escritorio-de-altura-ajustable-electrico?variant=42680990630147) Description: Adjustable Height desk, ideal for working while standing or sitting. Purchased Aug 6 2023, only 1 year of use. The tabletop is in perfect status, no damage. There is a little bit of damage to the paint on the feet, shown in the images. This does not affect functionality. Up to 4 height settings / profiles. Dimensions: 150cm x 60cm. Height: minimum 71cm, maximum 120cm. Color: black basewood top. Material: Metal and wood",
-        "es": "[Escritorio Randu de altura ajustable](https://randu.mx/collections/escritorios/products/escritorio-de-altura-ajustable-electrico?variant=42680990630147), ideal para trabajar de pie o sentado. Comprado el 6 de agosto de 2023, menos de un a\u00f1o de uso. La superficie de la mesa est\u00e1 en perfecto estado, sin da\u00f1os. Solo una peque\u00f1a cantidad de pintura descascarad en uno de los pies, pero sin afectar la funcionalidad. Sistema de ajuste de altura el\u00e9ctrico que funciona perfectamente. Especifaciones: \n Dimensiones: 150cm x 60cm \n Altura Ajustable: m\u00ednima: 71cm m\u00e1xima: 120cm \nColor: base negra, tablero amdera obscura\nMaterial: Metal y Madera"
-      },
-      "price": 6500,
-      "imageDir": "Randu Desk"
-    },
-    {
-      "name": {
         "en": "4x cushioned dining chairs",
         "es": "4c Sillas tapizadas"
       },
@@ -71,19 +59,7 @@
       },
       "price": 400,
       "imageDir": "Square Chair"
-    },
-    {
-      "name": {
-        "en": "Office Desk Chair",
-        "es": "silla de escritorio de oficina"
-      },
-      "description": {
-        "en": "this chair is great for working at a desk! it has a mesh back for airflow, an adjustable headrest, adjustable height, and lumbar support. it rolls on 5 wheels.  I've had it only 1.5 years. feel free to ask if you have any questions or want more pictures!",
-        "es": "Esta silla es ideal para trabajar en un escritorio. Tiene un respaldo de malla para que circule el aire, reposacabezas ajustable, altura ajustable y soporte lumbar. Se desplaza sobre 5 ruedas. La tengo desde hace solo un a\u00f1o y medio. \u00a1No dudes en preguntar si tienes alguna pregunta o quieres m\u00e1s fotos!"
-      },
-      "price": 1200,
-      "imageDir": "deskchair"
-    },
+    }
     {
       "name": {
         "en": "Ryobi 1/2' VSR Powered Hammer Drill w/ extra bits",
@@ -131,18 +107,6 @@
       },
       "price": 2200,
       "imageDir": "Vaporizor"
-    },
-    {
-      "name": {
-        "en": "SodaStream Sparkling Water Maker",
-        "es": "SodaStream M\u00e1quina para hacer agua con gas"
-      },
-      "description": {
-        "en": "[Link to buy new](https://articulo.mercadolibre.com.mx/MLM-1714960741-maquina-para-sodas-sodastream-jet-con-cilindro-co2-incluido-_JM?matt_tool=25598545&matt_word=&matt_source=google&matt_campaign_id=19652628138&matt_ad_group_id=158266690798&matt_match_type=&matt_network=g&matt_device=c&matt_creative=686740866143&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=5355700410&matt_product_id=MLM1714960741&matt_product_partition_id=2267904216866&matt_target_id=aud-2039726218771:pla-2267904216866&gad_source=1&gclid=Cj0KCQjwz7C2BhDkARIsAA_SZKaSXKZagMxT-hJrHxa1pTkLErivhqs5TAkNozKgUBXJdxEHc23beZYaAkAFEALw_wcB)It makes sparkling water! It can help you cut out sugary sodas or make cool cocktails / mocktails. [Sodastream Mexico](https://sodastreammexico.com/collections/intercambio-de-tanques-sodastream-en-cdmx) also has a really cool tank exchange program for very cheap here in the city",
-        "es": "[Enlance para comprar nuevo](https://articulo.mercadolibre.com.mx/MLM-1714960741-maquina-para-sodas-sodastream-jet-con-cilindro-co2-incluido-_JM?matt_tool=25598545&matt_word=&matt_source=google&matt_campaign_id=19652628138&matt_ad_group_id=158266690798&matt_match_type=&matt_network=g&matt_device=c&matt_creative=686740866143&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=5355700410&matt_product_id=MLM1714960741&matt_product_partition_id=2267904216866&matt_target_id=aud-2039726218771:pla-2267904216866&gad_source=1&gclid=Cj0KCQjwz7C2BhDkARIsAA_SZKaSXKZagMxT-hJrHxa1pTkLErivhqs5TAkNozKgUBXJdxEHc23beZYaAkAFEALw_wcB)\u00a1Prepara agua con gas! Puede ayudarte a dejar de tomar refrescos azucarados o preparar c\u00f3cteles o c\u00f3cteles sin alcohol geniales. [Sodastream M\u00e9xico](https://sodastreammexico.com/collections/intercambio-de-tanques-sodastream-en-cdmx) tambi\u00e9n tiene un programa de intercambio de tanques realmente genial por muy poco dinero aqu\u00ed en la ciudad."
-      },
-      "price": 800,
-      "imageDir": "sodastream"
     },
     {
       "name": {
